@@ -1,0 +1,21 @@
+20
+43D:\Hackathon Project\MileStone01\index.html133702557908483570 0
+60D:\Hackathon Project\MileStone01\dist\index.b2625c6b.css.map133702569825488114 0
+56D:\Hackathon Project\MileStone01\dist\index.b2625c6b.css133702569825338208 0
+46D:\Hackathon Project\MileStone01\css\style.css133702569509788514 0
+36D:\Hackathon Project\MileStone01\css133702525984563695 1
+45D:\Hackathon Project\MileStone01\package.json133702541920771768 0
+37D:\Hackathon Project\MileStone01\dist133702569825498087 1
+38D:\Hackathon Project\MileStone01\image133702527312600790 1
+44D:\Hackathon Project\MileStone01\src\main.ts133702522875882067 0
+36D:\Hackathon Project\MileStone01\src133702527847878888 1
+65D:\Hackathon Project\MileStone01\dist\MileStone01.3464ddca.js.map133702550914758382 0
+46D:\Hackathon Project\MileStone01\tsconfig.json133702526194264194 0
+48D:\Hackathon Project\MileStone01\image\image.png133702487768467751 0
+56D:\Hackathon Project\MileStone01\dist\image.275eb725.png133702548547291180 0
+65D:\Hackathon Project\MileStone01\dist\image.275eb725.png.12156.2q133702548024391766 0
+69D:\Hackathon Project\MileStone01\dist\index.b2625c6b.css.map.12156.2x133702548024381770 0
+55D:\Hackathon Project\MileStone01\dist\index.bc9084ba.js133702548546791641 0
+59D:\Hackathon Project\MileStone01\dist\index.bc9084ba.js.map133702548546911535 0
+48D:\Hackathon Project\MileStone01\dist\index.html133702563976120692 0
+61D:\Hackathon Project\MileStone01\dist\MileStone01.3464ddca.js133702550914558568 0
